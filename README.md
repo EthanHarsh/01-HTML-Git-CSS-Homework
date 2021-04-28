@@ -4,7 +4,12 @@
 
 This project was created for The Ohio State University's Coding Bootcamp in 2021.
 ## Description
-The client wanted an accessible and search engine optimized codebase for their website.
+The client needed an accessible and search engine optimized codebase for their website.  The client wanted:
+- Semantic HTML elements
+- Elements follow a logical structure
+- Alt attributes on images
+- Headings in sequential order
+- Page Title
 ## Skills Learned
 - [HTML/CSS](https://www.w3.org/standards/webdesign/htmlcss)
 - [Semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
