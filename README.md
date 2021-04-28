@@ -5,6 +5,8 @@
 This project was created for The Ohio State University's Coding Bootcamp in 2021.
 
 ![Application Screenshot](./assets/images/screenshot.png)
+![Application Screenshot](./assets/images/screenshot1.png)
+![Application Screenshot](./assets/images/screenshot2.png)
 ## Description
 The client needed an accessible and search engine optimized codebase for their website.  The client wanted:
 - Semantic HTML elements
