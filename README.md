@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor
 ## 01-HTML-Git-CSS-Homework
-![HTML Badge](./assets/images/HTML-Semantic-green.svg) ![HTML Badge](./assets/images/OSU-Bootcamp-red.svg)
+![HTML Badge](https://img.shields.io/badge/HTML-Semantic-green.svg) ![HTML Badge](https://img.shields.io/badge/OSU-Bootcamp-red.svg)
 
 This project was created for The Ohio State University's Coding Bootcamp in 2021.
 
