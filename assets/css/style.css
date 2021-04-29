@@ -22,7 +22,7 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Navigaion Styling */
 nav {
     display: inline;
     padding-top: 15px;
@@ -61,7 +61,7 @@ p {
 .seo {
     color: #d9dcd6;
 }
-
+/* Hero Image */
 .hero {
     height: 800px;
     width: 100%;
